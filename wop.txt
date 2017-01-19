@@ -1,0 +1,13 @@
+"tree"  "!Fo oTball"    "car"
+
+"night"   "alabama"   "words"   "avl"
+"bst" "no" "yes" "xylophone"
+
+"geaux" "computer science"     "tree"
+
+"heaps" "malware" "stuxnet" "ransomware"
+"binomial heaps" "spyware" "node" "school"
+"college" "book" "algorithm" "data structure" "graphs"
+"prim" "database" "reverse engineering" "cloud" "aws" "azure"
+"vim" "atom" "text editor" "xcode" "android" "kraken" "git" "bitbucket"
+"night"
